@@ -1,2 +1,2 @@
 # turboOctoBatman
-Essentially similar to a mids module but for powered flight
+The Powered Flight Program’s SHAFT project involves making an easy-to-use web application for instructors to check on and update midshipman grades and performance. Midshipmen log onto the website to check on their progress. Such a project involves web programming tied with databases in order to make a well-organized application. Finally, we allow external access via an offsite server so that grades can be edited at the airport and not just on campus.
